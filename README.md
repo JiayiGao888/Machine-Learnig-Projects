@@ -4,11 +4,11 @@ This repository contains Jupyter notebooks focused on practicing various machine
 
 ## Notebooks
 
-### 1.Linear_Regression_Practice.ipynb
+### 1. Linear_Regression_Practice.ipynb
 
 In this notebook, the focus is on Linear Regression, a fundamental supervised learning algorithm used for modeling the relationship between a dependent variable and one or more independent variables. The notebook demonstrates how to implement and evaluate linear regression models.
 
-### Logistic-Regression-Practice.ipynb
+### 2. Logistic-Regression-Practice.ipynb
 
 Logistic Regression is a classification algorithm used to model the probability of a binary outcome. This notebook provides an introduction to logistic regression, its implementation, and evaluation metrics for binary classification tasks.
 
